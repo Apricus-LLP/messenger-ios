@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.swiftpm
+/.build
+/Packages
+/*.xcodeproj
+/Packages
+/Pods
+Message Now/Pods
+Message Now/Podfile.lock
+Message Now/Support Files/GoogleService-Info.plist

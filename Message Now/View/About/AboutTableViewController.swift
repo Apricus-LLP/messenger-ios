@@ -136,5 +136,4 @@ class AboutTableViewController: UITableViewController {
             vm.isBlocked ? vm.unblockUser(uid: uid!) : vm.blockUser(uid: uid!)
         }
     }
-    
 }
